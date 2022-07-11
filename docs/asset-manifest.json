@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/animeSubstantial/static/css/main.12cf42f6.css",
+    "main.js": "/animeSubstantial/static/js/main.16693751.js",
+    "static/js/787.28cb0dcd.chunk.js": "/animeSubstantial/static/js/787.28cb0dcd.chunk.js",
+    "static/media/eye-open.png": "/animeSubstantial/static/media/eye-open.83a3c93b9eacf0eb25a4.png",
+    "static/media/eye-middle.png": "/animeSubstantial/static/media/eye-middle.d43e4fe272617e2702d4.png",
+    "static/media/eye-closed.png": "/animeSubstantial/static/media/eye-closed.dd6c27ea9a9d215894bb.png",
+    "static/media/logo.svg": "/animeSubstantial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/animeSubstantial/index.html",
+    "main.12cf42f6.css.map": "/animeSubstantial/static/css/main.12cf42f6.css.map",
+    "main.16693751.js.map": "/animeSubstantial/static/js/main.16693751.js.map",
+    "787.28cb0dcd.chunk.js.map": "/animeSubstantial/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12cf42f6.css",
+    "static/js/main.16693751.js"
+  ]
+}
